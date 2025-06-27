@@ -1,0 +1,5 @@
+requests
+requests_mock
+pytest
+pylint
+pytest-cov

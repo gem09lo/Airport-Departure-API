@@ -1,0 +1,51 @@
+[
+    {
+        "flight_number": "8260",
+        "dep_time": "2024-09-22 15:25",
+        "destination airport": "Lester B. Pearson International Airport",
+        "Temp": "22.2",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "4864",
+        "dep_time": "2024-09-22 15:25",
+        "destination airport": "Lester B. Pearson International Airport",
+        "Temp": "22.2",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "2877",
+        "dep_time": "2024-09-22 15:25",
+        "destination airport": "Lester B. Pearson International Airport",
+        "Temp": "22.2",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "6485",
+        "dep_time": "2024-09-22 15:25",
+        "destination airport": "Lester B. Pearson International Airport",
+        "Temp": "22.2",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "8260",
+        "dep_time": "2024-09-22 15:25",
+        "destination airport": "Lester B. Pearson International Airport",
+        "Temp": "22.2",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "8039",
+        "dep_time": "2024-09-22 15:25",
+        "destination airport": "Lester B. Pearson International Airport",
+        "Temp": "22.2",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "743",
+        "dep_time": "2024-09-22 20:00",
+        "destination airport": "Calgary International Airport",
+        "Temp": "22.4",
+        "Weather": "Partly cloudy"
+    }
+]

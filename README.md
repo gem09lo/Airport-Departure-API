@@ -37,7 +37,7 @@ This was built as part of a Sigma Labs training sprint on working with APIs, HTT
 
 ## 📁 Project Structure
 
-Airports-Departure-Info-CLI/
+Airport-Departure-API/
 
 -[airports/]
    - `airports.py`: Main CLI script for Airports info
@@ -56,8 +56,8 @@ Airports-Departure-Info-CLI/
 ## ⚙️ Getting Set Up
 
 1. **Clone the repository**
-- `git clone https://github.com/yourusername/airport-api-project.git`
-- `cd airport-api-project`
+- `git clone https://github.com/yourusername/Airport-Departure-API.git`
+- `cd Airport-Departure-API`
   ...
 
 1. **Create and activate a virtual environment**

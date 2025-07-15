@@ -1,0 +1,702 @@
+[
+    {
+        "flight_number": "6919",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Abu Dhabi International Airport",
+        "Temp": "35.1",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "6674",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Abu Dhabi International Airport",
+        "Temp": "35.1",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "4290",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Abu Dhabi International Airport",
+        "Temp": "35.1",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "64",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Abu Dhabi International Airport",
+        "Temp": "35.1",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "6554",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Abu Dhabi International Airport",
+        "Temp": "35.1",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "1609",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "6937",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "4014",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "6507",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "9415",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "137",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "5068",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "4265",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "3588",
+        "dep_time": "2025-07-15 14:40",
+        "destination airport": "General Edward Lawrence Logan International Airport",
+        "Temp": "28.3",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "6964",
+        "dep_time": "2025-07-15 14:40",
+        "destination airport": "General Edward Lawrence Logan International Airport",
+        "Temp": "28.3",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "5413",
+        "dep_time": "2025-07-15 14:40",
+        "destination airport": "General Edward Lawrence Logan International Airport",
+        "Temp": "28.3",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "213",
+        "dep_time": "2025-07-15 14:40",
+        "destination airport": "General Edward Lawrence Logan International Airport",
+        "Temp": "28.3",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "8913",
+        "dep_time": "2025-07-15 14:40",
+        "destination airport": "General Edward Lawrence Logan International Airport",
+        "Temp": "28.3",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "87",
+        "dep_time": "2025-07-15 14:05",
+        "destination airport": "Vancouver International Airport",
+        "Temp": "19.0",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "3579",
+        "dep_time": "2025-07-15 14:50",
+        "destination airport": "George Bush Intercontinental Houston Airport",
+        "Temp": "30.6",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "197",
+        "dep_time": "2025-07-15 14:50",
+        "destination airport": "George Bush Intercontinental Houston Airport",
+        "Temp": "30.6",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "6954",
+        "dep_time": "2025-07-15 14:50",
+        "destination airport": "George Bush Intercontinental Houston Airport",
+        "Temp": "30.6",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "8897",
+        "dep_time": "2025-07-15 14:50",
+        "destination airport": "George Bush Intercontinental Houston Airport",
+        "Temp": "30.6",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "5497",
+        "dep_time": "2025-07-15 14:50",
+        "destination airport": "George Bush Intercontinental Houston Airport",
+        "Temp": "30.6",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "333",
+        "dep_time": "2025-07-15 13:45",
+        "destination airport": null,
+        "Temp": "25.2",
+        "Weather": "Patchy rain nearby"
+    },
+    {
+        "flight_number": "9759",
+        "dep_time": "2025-07-15 13:45",
+        "destination airport": null,
+        "Temp": "25.2",
+        "Weather": "Patchy rain nearby"
+    },
+    {
+        "flight_number": "6828",
+        "dep_time": "2025-07-15 13:45",
+        "destination airport": null,
+        "Temp": "25.2",
+        "Weather": "Patchy rain nearby"
+    },
+    {
+        "flight_number": "5973",
+        "dep_time": "2025-07-15 13:50",
+        "destination airport": "Orlando International Airport",
+        "Temp": "25.4",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "135",
+        "dep_time": "2025-07-15 13:50",
+        "destination airport": "Orlando International Airport",
+        "Temp": "25.4",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "7678",
+        "dep_time": "2025-07-15 13:50",
+        "destination airport": "Orlando International Airport",
+        "Temp": "25.4",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "4802",
+        "dep_time": "2025-07-15 13:50",
+        "destination airport": "Orlando International Airport",
+        "Temp": "25.4",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "9892",
+        "dep_time": "2025-07-15 13:50",
+        "destination airport": "Orlando International Airport",
+        "Temp": "25.4",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "8002",
+        "dep_time": "2025-07-15 14:25",
+        "destination airport": "Dubai International Airport",
+        "Temp": "42.1",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "8862",
+        "dep_time": "2025-07-15 14:25",
+        "destination airport": "Dubai International Airport",
+        "Temp": "42.1",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "6034",
+        "dep_time": "2025-07-15 14:25",
+        "destination airport": "Dubai International Airport",
+        "Temp": "42.1",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "3684",
+        "dep_time": "2025-07-15 14:35",
+        "destination airport": "Gothenburg-Landvetter Airport",
+        "Temp": "19.1",
+        "Weather": "Patchy light rain with thunder"
+    },
+    {
+        "flight_number": "9710",
+        "dep_time": "2025-07-15 14:35",
+        "destination airport": "Gothenburg-Landvetter Airport",
+        "Temp": "19.1",
+        "Weather": "Patchy light rain with thunder"
+    },
+    {
+        "flight_number": "2",
+        "dep_time": "2025-07-15 14:25",
+        "destination airport": "Dubai International Airport",
+        "Temp": "42.1",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "792",
+        "dep_time": "2025-07-15 14:35",
+        "destination airport": "Gothenburg-Landvetter Airport",
+        "Temp": "19.1",
+        "Weather": "Patchy light rain with thunder"
+    },
+    {
+        "flight_number": "6878",
+        "dep_time": "2025-07-15 14:35",
+        "destination airport": "Gothenburg-Landvetter Airport",
+        "Temp": "19.1",
+        "Weather": "Patchy light rain with thunder"
+    },
+    {
+        "flight_number": "7879",
+        "dep_time": "2025-07-15 14:35",
+        "destination airport": "Gothenburg-Landvetter Airport",
+        "Temp": "19.1",
+        "Weather": "Patchy light rain with thunder"
+    },
+    {
+        "flight_number": "5896",
+        "dep_time": "2025-07-15 14:35",
+        "destination airport": "Gothenburg-Landvetter Airport",
+        "Temp": "19.1",
+        "Weather": "Patchy light rain with thunder"
+    },
+    {
+        "flight_number": "842",
+        "dep_time": "2025-07-15 15:00",
+        "destination airport": "Split Airport",
+        "Temp": "29.9",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "19",
+        "dep_time": "2025-07-15 14:10",
+        "destination airport": "Calgary International Airport",
+        "Temp": "13.1",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "1620",
+        "dep_time": "2025-07-15 13:30",
+        "destination airport": "Frankfurt am Main International Airport",
+        "Temp": "25.1",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "5483",
+        "dep_time": "2025-07-15 13:30",
+        "destination airport": "Frankfurt am Main International Airport",
+        "Temp": "25.1",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "907",
+        "dep_time": "2025-07-15 13:30",
+        "destination airport": "Frankfurt am Main International Airport",
+        "Temp": "25.1",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "8816",
+        "dep_time": "2025-07-15 13:30",
+        "destination airport": "Frankfurt am Main International Airport",
+        "Temp": "25.1",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "159",
+        "dep_time": "2025-07-15 14:35",
+        "destination airport": "L.F. Wade International International Airport",
+        "Temp": "32.3",
+        "Weather": "Thundery outbreaks in nearby"
+    },
+    {
+        "flight_number": "3768",
+        "dep_time": "2025-07-15 14:35",
+        "destination airport": "L.F. Wade International International Airport",
+        "Temp": "32.3",
+        "Weather": "Thundery outbreaks in nearby"
+    },
+    {
+        "flight_number": "6217",
+        "dep_time": "2025-07-15 14:35",
+        "destination airport": "L.F. Wade International International Airport",
+        "Temp": "32.3",
+        "Weather": "Thundery outbreaks in nearby"
+    },
+    {
+        "flight_number": "7150",
+        "dep_time": "2025-07-15 15:15",
+        "destination airport": "Edinburgh Airport",
+        "Temp": "17.0",
+        "Weather": "Light rain"
+    },
+    {
+        "flight_number": "6272",
+        "dep_time": "2025-07-15 15:15",
+        "destination airport": "Edinburgh Airport",
+        "Temp": "17.0",
+        "Weather": "Light rain"
+    },
+    {
+        "flight_number": "3735",
+        "dep_time": "2025-07-15 15:15",
+        "destination airport": "Edinburgh Airport",
+        "Temp": "17.0",
+        "Weather": "Light rain"
+    },
+    {
+        "flight_number": "1448",
+        "dep_time": "2025-07-15 15:15",
+        "destination airport": "Edinburgh Airport",
+        "Temp": "17.0",
+        "Weather": "Light rain"
+    },
+    {
+        "flight_number": "3556",
+        "dep_time": "2025-07-15 15:15",
+        "destination airport": "Edinburgh Airport",
+        "Temp": "17.0",
+        "Weather": "Light rain"
+    },
+    {
+        "flight_number": "4784",
+        "dep_time": "2025-07-15 15:00",
+        "destination airport": "Charlotte Douglas International Airport",
+        "Temp": "29.4",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "735",
+        "dep_time": "2025-07-15 15:00",
+        "destination airport": "Charlotte Douglas International Airport",
+        "Temp": "29.4",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "1610",
+        "dep_time": "2025-07-15 15:00",
+        "destination airport": "Charlotte Douglas International Airport",
+        "Temp": "29.4",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "4071",
+        "dep_time": "2025-07-15 15:00",
+        "destination airport": "Charlotte Douglas International Airport",
+        "Temp": "29.4",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "5459",
+        "dep_time": "2025-07-15 14:20",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "269",
+        "dep_time": "2025-07-15 14:20",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "5291",
+        "dep_time": "2025-07-15 14:20",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "3614",
+        "dep_time": "2025-07-15 14:20",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "8969",
+        "dep_time": "2025-07-15 14:20",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "6984",
+        "dep_time": "2025-07-15 14:20",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "115",
+        "dep_time": "2025-07-15 14:40",
+        "destination airport": "John F Kennedy International Airport",
+        "Temp": "26.7",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "5515",
+        "dep_time": "2025-07-15 14:40",
+        "destination airport": "John F Kennedy International Airport",
+        "Temp": "26.7",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "8815",
+        "dep_time": "2025-07-15 14:40",
+        "destination airport": "John F Kennedy International Airport",
+        "Temp": "26.7",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "6928",
+        "dep_time": "2025-07-15 14:40",
+        "destination airport": "John F Kennedy International Airport",
+        "Temp": "26.7",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "5253",
+        "dep_time": "2025-07-15 14:40",
+        "destination airport": "John F Kennedy International Airport",
+        "Temp": "26.7",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "3543",
+        "dep_time": "2025-07-15 14:40",
+        "destination airport": "John F Kennedy International Airport",
+        "Temp": "26.7",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "9629",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Cologne Bonn Airport",
+        "Temp": "24.1",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "6952",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Cologne Bonn Airport",
+        "Temp": "24.1",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "463",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Cologne Bonn Airport",
+        "Temp": "24.1",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "7051",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Amsterdam Airport Schiphol",
+        "Temp": "21.4",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "9360",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Amsterdam Airport Schiphol",
+        "Temp": "21.4",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "9042",
+        "dep_time": "2025-07-15 14:50",
+        "destination airport": "Denver International Airport",
+        "Temp": "27.5",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "7452",
+        "dep_time": "2025-07-15 14:50",
+        "destination airport": "Denver International Airport",
+        "Temp": "27.5",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "9237",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Amsterdam Airport Schiphol",
+        "Temp": "21.4",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "1010",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Amsterdam Airport Schiphol",
+        "Temp": "21.4",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "7730",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Amsterdam Airport Schiphol",
+        "Temp": "21.4",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "1010",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Amsterdam Airport Schiphol",
+        "Temp": "21.4",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "1644",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Amsterdam Airport Schiphol",
+        "Temp": "21.4",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "263",
+        "dep_time": "2025-07-15 14:50",
+        "destination airport": "Denver International Airport",
+        "Temp": "27.5",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "3714",
+        "dep_time": "2025-07-15 14:50",
+        "destination airport": "Denver International Airport",
+        "Temp": "27.5",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "9648",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Amsterdam Airport Schiphol",
+        "Temp": "21.4",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "5202",
+        "dep_time": "2025-07-15 14:45",
+        "destination airport": "Amsterdam Airport Schiphol",
+        "Temp": "21.4",
+        "Weather": "Partly Cloudy"
+    },
+    {
+        "flight_number": "3118",
+        "dep_time": "2025-07-15 14:50",
+        "destination airport": "Denver International Airport",
+        "Temp": "27.5",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "608",
+        "dep_time": "2025-07-15 15:05",
+        "destination airport": "Olbia / Costa Smeralda Airport",
+        "Temp": "31.4",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "277",
+        "dep_time": "2025-07-15 15:10",
+        "destination airport": "Rajiv Gandhi International Airport, Shamshabad",
+        "Temp": "28.0",
+        "Weather": "Mist"
+    },
+    {
+        "flight_number": "6252",
+        "dep_time": "2025-07-15 14:55",
+        "destination airport": null,
+        "Temp": "31.4",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "960",
+        "dep_time": "2025-07-15 15:10",
+        "destination airport": "Munich International Airport",
+        "Temp": "20.4",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "6729",
+        "dep_time": "2025-07-15 15:10",
+        "destination airport": "Munich International Airport",
+        "Temp": "20.4",
+        "Weather": "Partly cloudy"
+    },
+    {
+        "flight_number": "6667",
+        "dep_time": "2025-07-15 15:10",
+        "destination airport": "Rajiv Gandhi International Airport, Shamshabad",
+        "Temp": "28.0",
+        "Weather": "Mist"
+    },
+    {
+        "flight_number": "6778",
+        "dep_time": "2025-07-15 14:55",
+        "destination airport": null,
+        "Temp": "31.4",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "978",
+        "dep_time": "2025-07-15 14:55",
+        "destination airport": null,
+        "Temp": "31.4",
+        "Weather": "Sunny"
+    },
+    {
+        "flight_number": "9890",
+        "dep_time": "2025-07-15 13:35",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "7675",
+        "dep_time": "2025-07-15 13:35",
+        "destination airport": "Los Angeles International Airport",
+        "Temp": "18.9",
+        "Weather": "Overcast"
+    },
+    {
+        "flight_number": "354",
+        "dep_time": "2025-07-15 15:20",
+        "destination airport": null,
+        "Temp": "27.2",
+        "Weather": "Partly cloudy"
+    }
+]

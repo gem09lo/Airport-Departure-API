@@ -28,6 +28,33 @@ This was built as part of a Sigma Labs training sprint on working with APIs, HTT
 ---
 
 ## 🔧 Key Tools & Technologies
+**Python Core Concepts**:
+- HTTP requests and RESTful APIs
+- Command Line Interface (CLI) apps using `argparse`
+- Exception handling and data validation
+- File I/O: reading/writing `.json` and `.html`
+- Modular design and clean code principles
+
+**Libraries & Packages**:
+- `requests`: For interacting with APIs
+- `rich`: For formatted terminal output and optional progress bars
+- `argparse`: For building CLI interfaces
+- `pytest`: For unit testing
+- `pytest-cov`: For measuring test coverage
+
+**Testing & Linting**:
+- `pytest`, `pytest-cov`
+- `.pylintrc` configuration for Pylint (code linting & static analysis)
+
+**Data Formats**:
+- `JSON` (for API responses and exports)
+- `HTML` (for export display)
+
+**Other Tools**:
+- `curl` (for testing APIs via terminal)
+
+
+
 - **Python Libraries/concepts**: ArgParse, Rich, HTTP requests, client/servers, RESTful APIs, curl commands, ETL processes, Pytest, Pytest-coverage
 - **Visuals/CLI**: Rich Console 
 - **File formats**: JSON, HTML

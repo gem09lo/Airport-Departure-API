@@ -1,56 +1,129 @@
-[![badge](./.github/badges/code_quality.svg)](./code_review/report.json)
-[![badge](./.github/badges/total_errors.svg)](./code_review/report.json)
+# Airport API Data Project ✈️
 
-# 🧑‍💻 Sigma Labs Coursework
+![alt text](image.png)
 
-## 🛠️ Getting Setup
+## 🧾 Overview
 
-1. **Fork** this Repository to your Github Account
-2. **Enable Workflows** on your cloned Repository. See the below image for how to do this.
-3. **Clone** your Repository to your laptop
-4. **Open** this folder in VSCode
+The project involves developing a terminal based, super-powered airports departure board. Taking real-time airport and weather data from public APIs and combining it with other sources to make a useful command line app that will let the user view all departures from a specific airport. 
 
-<img width="700px" src="https://i.imgur.com/eGyISm9.png" />
+Our final application will be able to:
+- Search for any Airport in the world
+- Find all the flights leaving that airport
+- Extract the location of all of the destinations of the airports
+- Combine that data with the weather at each of the destinations of the flights
+- Export this data to a HTML or JSON file
 
-## 🗂️ Files Explained
+**Note: Example screenshot of CLI output at the end.**
+ 
+This was built as part of a Sigma Labs training sprint on working with APIs, HTTP requests, data transformation, and data validation in Python.
 
-In this Repository you will find all of the materials for this week of the course.
+## 🎯 Project Aims
 
-As well as your coursework files you'll find some additional files
+- Use Python to access RESTful APIs using the `requests` library.
+- Parse, clean, and validate JSON responses.
+- Combine multiple API sources (airport and weather data).
+- Apply exception handling and clean coding practices.
+- Demonstrate understanding of HTTP status codes, API rate limits, and real-world data variability.
 
-- `README.md`
-  - This is the file you are currently reading
-- `.gitignore`
-  - This file is used to tell Git what files to ignore for any changes. This can be safely ignored.
-- `.prettierrc`
-  - This file is used to configure Prettier, an automated formatter that we suggest you install. This can be safely ignored.
-- `.eslintrc.json` and `pylintrc`
-  - Used to ensure that your code is following good style guides
+---
 
-You'll also find some folders:
+## 🔧 Key Tools & Technologies
+- **Python Libraries/concepts**: ArgParse, Rich, HTTP requests, client/servers, RESTful APIs, curl commands, ETL processes, Pytest, Pytest-coverage
+- **Visuals/CLI**: Rich Console 
+- **File formats**: JSON, HTML
+- **Network**: `Network Tab` in Chrome
 
-- `.utils` folder
-  - Some config files to help us to test your code
-- `.github` folder
-  - Configuration files used by Github
-- `code_review` folder
-  - Outputs of our automated code reviews. [See below](#code-review-folder) for more details.
-- `.vscode` folder
-  - This folder contains settings and config files for VSCode. They can be safely ignored.
+---
 
-Any other files or folder found here **are** relevant for your coursework.
+## 📁 Project Structure
 
-## ✅ Code Review Folder
+Airports-Departure-Info-CLI/
 
-Every time you commit your code to Github, we will run a suite of tests to ensure that you code is of high quality.
+-[airports/]
+   - `airports.py`: Main CLI script for Airports info
+   - `airports.json`: Local dataset of all airports
+   - `flight_details_<datetime>_...`(JSON/HTML): Output data from CLI
+- [countries/] (Optional) HTTP/API practice folder
+   - README.md: Link ...
+   - `countries.py`: Fetch country info
+   - `test_countries.py`: Pytest for countries.py
+- `requirements.txt`: Requests, Rich, etc.
+- `.gitignore`: Exclude unnecessary files
+- - `.pylintrc`: Pylint config for code linting
 
-It's worth noting - this **does not evaluate the quality of your solution**. Think of it as evaluating the 'grammar' and 'spelling' of your code rather than the actual quality of the work you've done.
+---
 
-Inside this folder you'll find two files
+## ⚙️ Getting Set Up
 
-- `report.txt`
-  - A plain text version of your code quality
-- `report.json`
-  - A computer-friendly version of your code quality, including your 'Code Quality Score'
+1. **Clone the repository**
+- `git clone https://github.com/yourusername/airport-api-project.git`
+- `cd airport-api-project`
+  ...
 
-Consistently keeping your score high will make your code easier to read and understand.
+1. **Create and activate a virtual environment**
+- `python3 -m venv .venv`
+- `source .venv/bin/activate`
+
+1. **Install dependencies**
+- `pip install -r requirements.txt`
+
+---
+
+## Running the Project
+
+1. Navigate into the `airports/` directory. 
+2. Run `python airports.py --airport <AIRPORT NAME> --export <json or html>`
+
+- Prompts the user to input a valid UK airport 
+- Connects to the multiple APIs to retrieve live departure data
+- Filters flights by valid UK airport codes
+- Use the airport coordinates to fetch current weather data.
+- Extracts and processes relevant flight details (airline, flight number, destination, departure time, destination weather etc)
+- Print a summary of both sets of information in the CLI.
+- Export output data from CLI to a .json and .html file (datetime included in filename).
+
+🕹️**Notes:** 
+- These APIs do not require API keys, so you can run the scripts directly without any configuration.
+- Both values for `--airport` and `--export` are required when running the script.
+- `--airport` value has to be the exact airport name (can be found in `airports.json`).
+
+---
+
+## Additional Information
+
+Data Sources:
+
+1. Airlabs API - Retrieves details about a given airport using the ICAO or IATA code:
+   - https://airlabs.co/
+   - https://airlabs.co/docs/
+2. Local Airports JSON file
+3. Weather API - Fetches weather information for the airport's location:
+   - https://www.weatherapi.com/docs/
+  
+
+---
+
+## 🚀 Next Steps (Ideas for Extension)
+✅ Progress Display: Add a progress loader that is displayed when your code is searching the Weather and Airlabs APIs for data. 
+- https://rich.readthedocs.io/en/stable/progress.html
+
+✅ Handling Errors: If the server returns with anything apart from 200 then show an appropriate error message. 
+Examples: 
+- `404`: show an error message about the content not being found. 
+- `500`: show an error message explaining the error that happened on the server.
+
+✅ Airport API from Airlabs​: Instead of relying on a local JSON file to retrieve the information about an airport you can use the Airport DB API from Airlabs. This will allow you to get much more detailed information about an airport.
+- https://airlabs.co/docs/airports
+  
+✅ Add Multiprocessing​: The current code might take a long time to run because you need to fetch the weather one-by-one from the weather API for each airport. One solution is to introduce multiprocessing so that the requests can run in parallel rather than in sequence.
+- https://www.sitepoint.com/python-multiprocessing-parallel-programming
+
+
+
+
+---
+
+**Example screenshot of CLI output:**
+
+![alt text](image-1.png)
+

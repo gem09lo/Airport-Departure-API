@@ -87,11 +87,11 @@ Airport-Departure-API/
 - `cd Airport-Departure-API`
   ...
 
-1. **Create and activate a virtual environment**
+2. **Create and activate a virtual environment**
 - `python3 -m venv .venv`
 - `source .venv/bin/activate`
 
-1. **Install dependencies**
+3. **Install dependencies**
 - `pip install -r requirements.txt`
 
 ---
